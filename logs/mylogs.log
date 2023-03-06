@@ -1,0 +1,85 @@
+20230304 17:53:29 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230304 17:53:30 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 17:53:31 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230304 17:53:32 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 17:59:27 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230304 17:59:28 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 17:59:29 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230304 17:59:29 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 17:59:30 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230304 17:59:30 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230304 17:59:30 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230304 17:59:31 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230304 17:59:31 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230304 18:02:14 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230304 18:02:15 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 18:02:16 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230304 18:02:17 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 18:02:17 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230304 18:02:17 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230304 18:02:18 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230304 18:02:18 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230304 18:02:22 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230304 18:11:15 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230304 18:11:16 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 18:11:17 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230304 18:11:17 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230304 18:11:18 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230304 18:11:18 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230304 18:11:18 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230304 18:11:19 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230304 18:11:19 INFO  [main] base.BasePage BasePage.java71 - pass:remember me element element clicked
+20230304 18:11:22 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230304 18:11:26 INFO  [main] base.BasePage BasePage.java71 - pass:usermenue element element clicked
+20230305 20:39:36 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230305 20:39:40 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230305 20:39:40 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 20:39:41 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230305 20:39:42 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 20:39:43 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 20:39:44 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230305 20:39:44 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230305 20:39:44 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230305 20:39:45 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230305 20:39:45 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230305 20:39:45 INFO  [main] base.BasePage BasePage.java71 - pass:remember me element element clicked
+20230305 20:39:46 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 20:39:47 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230305 20:39:47 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230305 20:39:48 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230305 20:39:48 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230305 20:39:48 INFO  [main] base.BasePage BasePage.java71 - pass:remember me element element clicked
+20230305 20:39:49 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230305 20:39:51 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230305 20:39:54 INFO  [main] base.BasePage BasePage.java71 - pass:usermenue element element clicked
+20230305 20:39:56 INFO  [main] base.BasePage BasePage.java71 - pass:usermenue element element clicked
+20230305 20:44:45 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230305 20:44:47 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 20:44:48 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230305 20:44:49 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 20:44:50 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230305 20:44:50 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230305 20:44:50 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230305 20:44:50 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230305 20:44:51 INFO  [main] base.BasePage BasePage.java71 - pass:remember me element element clicked
+20230305 20:44:54 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230305 20:44:59 INFO  [main] base.BasePage BasePage.java71 - pass:usermenue element element clicked
+20230305 21:00:17 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Login_Script
+20230305 21:00:19 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 21:00:20 INFO  [main] Test.TestPage TestPage.java31 - inside loginToSalesForce method
+20230305 21:00:21 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 21:00:23 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230305 21:00:23 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230305 21:00:24 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230305 21:00:24 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230305 21:00:24 INFO  [main] base.BasePage BasePage.java71 - pass:remember me element element clicked
+20230305 21:00:27 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230305 21:00:31 INFO  [main] base.BasePage BasePage.java71 - pass:usermenue element element clicked
+20230305 21:05:13 INFO  [main] base.BaseTest BaseTest.java92 - started testscript name Forgotpassword
+20230305 21:05:15 INFO  [main] base.BaseTest BaseTest.java158 - going to the url=https://login.salesforce.com
+20230305 21:05:16 INFO  [main] base.BasePage BasePage.java61 - pass:username element  element cleared
+20230305 21:05:16 INFO  [main] base.BasePage BasePage.java51 - text entered in username element field
+20230305 21:05:16 INFO  [main] base.BasePage BasePage.java61 - pass:password element  element cleared
+20230305 21:05:17 INFO  [main] base.BasePage BasePage.java51 - text entered in password element field
+20230305 21:05:17 INFO  [main] base.BasePage BasePage.java71 - pass:login button element element clicked
+20230305 21:05:17 INFO  [main] base.BasePage BasePage.java71 - pass:forgotpassword element element clicked
